@@ -1,0 +1,9 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+.loginbody{
+   max-height:5px;
+   background-image: url(".././images/header.jpg");
+}
