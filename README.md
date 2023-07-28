@@ -10,3 +10,14 @@ ________________________________SYSTEM DEPENDIENCES_____________________________
 Django 4.0.0
 
 Bootstrap 5.0.0
+
+TO CONTRIBUTE
+1)> Fork the Repo
+
+2)> Clone the repo
+
+3)>Create a new branch
+
+4)>Make changes and push to the origin branch
+
+5)>Create a oull request
