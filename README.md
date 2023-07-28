@@ -12,6 +12,7 @@ Django 4.0.0
 Bootstrap 5.0.0
 
 TO CONTRIBUTE
+
 1)> Fork the Repo
 
 2)> Clone the repo
