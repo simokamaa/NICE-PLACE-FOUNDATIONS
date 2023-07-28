@@ -15,12 +15,14 @@ TO CONTRIBUTE
 
 1)> Fork the Repo
 
-2)> Clone the repo
+2)> Clone the repo(git clone <ur>)
 
-3)>Create a new branch
+3)>Create a new branch(git checkout -b feature)
 
-4)>Make changes and push to your branch
+4)>Make the appropriate changes in the files
 
-5)>Push to the main "ds" branch
+5)>Commit your changes(git commit -m 'improved/add feature')
 
-5)>Create a pull request
+5)>Push to the branch(git push origin ds)
+
+6)Create a pull request[makesure your code is propery commented]. If you find a bug kindly raise an issue here
