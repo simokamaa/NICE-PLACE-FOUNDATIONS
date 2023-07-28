@@ -19,8 +19,8 @@ TO CONTRIBUTE
 
 3)>Create a new branch
 
-4)>Make changes and push your branch
+4)>Make changes and push to your branch
 
-5)>Push to the main branch
+5)>Push to the main "ds" branch
 
 5)>Create a pull request
