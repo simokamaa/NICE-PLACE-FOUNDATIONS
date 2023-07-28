@@ -21,4 +21,4 @@ TO CONTRIBUTE
 
 4)>Make changes and push to the origin branch
 
-5)>Create a oull request
+5)>Create a pull request
